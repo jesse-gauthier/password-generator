@@ -1,4 +1,4 @@
-# Password Generator / Saver
+# Password Generator
 
 ## Overview
 
